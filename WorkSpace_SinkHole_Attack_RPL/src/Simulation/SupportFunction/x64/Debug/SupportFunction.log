@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Scheduling.c
+Scheduling.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     Creating library ..\..\..\bin\bin_x64\SupportFunction.lib and object ..\..\..\bin\bin_x64\SupportFunction.exp
+  SupportFunction.vcxproj -> C:\Users\Hanuman\Desktop\File exchange projects_v12.1\SINKHOLE_ATTACK_IN_RPL_v12.1\WorkSpace_SinkHole_Attack_RPL\src\Simulation\SupportFunction\..\..\..\bin\bin_x64\SupportFunction.dll
